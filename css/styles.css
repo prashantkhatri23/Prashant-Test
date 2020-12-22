@@ -1,0 +1,111 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #f4a261;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #e76f51;
+  border-radius: 0px 0px 8px 8px;
+  border: 0;
+  margin: 0px 5px 0px 5px;
+  box-shadow: 0 8px 10px -8px #222;
+  padding-bottom: 15px;
+}
+
+#nav-container {
+margin: 0 30px 0 30px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  color: #fff;
+  font-size: 150%;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0px;
+  line-height: .75;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #fff;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #f4a261;
+}
+#nav-list a{
+  font-size: 1.25em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+}
+#menu-button:hover{
+background-color: #f4a261;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+hr{
+  margin: 10px 0px 10px 0px;
+  opacity: .25;
+  border-top: .5px solid #fff;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+    margin-top: -10px;
+}
+.navbar-header{
+  padding-bottom: 10px;
+}
+
+
+#menu-categories-title{
+  font-weight: bold;
+  color: #fff;
+   text-shadow: 1px 1px 1px #222;
+}
+
+.menu-detail-box{
+  background-color:#e76f51;
+  margin: 10px 0px 10px 0px;
+  padding: 0px 20px 10px 20px;
+  box-shadow: 0 8px 10px -8px #222;
+  border-radius: 4px 4px 4px 4px;
+}
+#main-content{
+  width:98%;
+  margin-bottom: 50px;
+}
+#main-content h3{
+  margin-top: 15px;
+  text-shadow: 1px 1px 1px #222;
+}
+#main-content .float-right h4{
+  float: right;
+  margin-top: 10px;
+    text-shadow: 1px 1px 1px #222;
+}
+@media(max-width: 768px){
+  #header-nav {
+  padding-bottom: 5px;
+}
+#main-content .row{
+  padding: 0px 50px 0px 50px;
+}
+}
