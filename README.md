@@ -26,7 +26,7 @@
 - Number of samples - 4500 utterances
 - Each audio converted to PCM :
 
-![MicrosoftTeams-image.png](CS753%20-%20Hacker%20Role%20-%20Imputer%205a1ae5fe117947d88d3f6dfa8131f762/MicrosoftTeams-image.png)
+![MicrosoftTeams-image.png](https://github.com/prashantkhatri23/Prashant-Test/blob/main/CS753%20-%20Hacker%20Role%20-%20Imputer/MicrosoftTeams-image.png)
 
 <aside>
 <img src="https://www.notion.so/icons/groups_gray.svg" alt="https://www.notion.so/icons/groups_gray.svg" width="40px" /> **Team**
