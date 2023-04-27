@@ -30,8 +30,8 @@
 
 <aside>
 <img src="https://www.notion.so/icons/groups_gray.svg" alt="https://www.notion.so/icons/groups_gray.svg" width="40px" /> **Team**
-22M2160: **Raj Kumanbhai Gothi**
-22M1163: **Rahul Kumar**
-22M1072: **Prashant Khatri**
+22M2160: Raj Kumanbhai Gothi
+22M1163: Rahul Kumar
+22M1072: Prashant Khatri
 
 </aside>
